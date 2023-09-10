@@ -34,7 +34,7 @@ $fileGithubUrl = $githubRepoUrl . '/blob/main/' . $scriptFilename; // URL for th
 $fullSourceCodeGithubUrl = $githubRepoUrl; // URL for the full source code
 
 // Define other information
-$slackName = $David . '.' . $Favour;
+$slackName = "David" . '.' . "Favour";
 $backendTrack = 'Backend';
 
 // Construct the response array
